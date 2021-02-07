@@ -38,7 +38,7 @@ You can also see a live demonstration of the React Web Frontend:
 
 ## The author
 
-Made with :heart: by Leonardo Ribeiro.
+Made with :heart: by Leonardo Ribeiro. :brazil:
 
 Get in touch! :smiley:
 
